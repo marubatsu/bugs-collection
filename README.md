@@ -26,5 +26,5 @@ This form is in English, but all the error messages are in Portuguese:
 This dropdown contains a long list of different values, and it is really difficult to find the correct option because it is not in alphabetical order:
 ![List](https://github.com/marubatsu/bugs-collection/blob/master/Usability/web_form1_list_is_not_in_alphabetical_order.png)
 
-I tried to use this form using TAB key, but the cursor did not change in order:
+I tried to fill this form using TAB key to move to the next field, but the cursor did not move in order:
 ![Tab key](https://github.com/marubatsu/bugs-collection/blob/master/Usability/web_form1_when_user_presses_tab_key_fields_do_not_change_in_order.gif)
